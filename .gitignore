@@ -1,0 +1,7 @@
+build
+.dart_tool
+android/app/build.gradle.kts
+android/app/my-release-key.jks
+pubspec.lock
+.flutter-plugins
+.flutter-plugins-dependencies
