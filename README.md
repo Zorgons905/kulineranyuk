@@ -42,7 +42,9 @@ git commit -m "menambahkan login page"
 ```
 
 lalu push file yang sudah di commit tadi
-```git push -u origin ..nama branchmu..```
+```
+git push -u origin ..nama branchmu..
+```
 misal `git push -u origin zidan`
 
   `
